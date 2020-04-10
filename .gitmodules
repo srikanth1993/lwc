@@ -1,0 +1,3 @@
+[submodule "lwc-recipe"]
+	path = lwc-recipe
+	url = https://github.com/srikanth1993/lwc-Rep
